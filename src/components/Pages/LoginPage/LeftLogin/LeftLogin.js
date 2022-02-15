@@ -24,7 +24,7 @@ function LeftLogin() {
           <img src={kouraSignin} alt="koura_login" class="w-32 pt-32" />
         </Col>
         <Col>
-          <img src={welcomeSignin} alt="welcome" class="w-auto h-96" />
+          <img src={welcomeSignin} alt="welcome" class="w-[400px] h-[400px]" />
         </Col>
       </Row>
     </Container>
